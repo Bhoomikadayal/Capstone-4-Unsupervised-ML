@@ -23,7 +23,7 @@ Integrating this dataset with other external datasets such as IMDB ratings, rott
 
 <B>**Conclusion:**</B>
 
-- There were approximately 7787 records and 11 attributes in the dataset.
+- There were approximately 7787 records and 12 attributes in the dataset.
 - We started by working on the missing values in the dataset and conducting exploratory data analysis (EDA).
 - It was discovered that Netflix hosts more movies than television shows on its platform, and the total number of shows added to Netflix is expanding at an 
 exponential rate. Additionally, most of the shows were made in the United States.
